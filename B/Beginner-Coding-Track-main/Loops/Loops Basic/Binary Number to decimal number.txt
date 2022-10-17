@@ -10,7 +10,7 @@ int binary_to_decimal(char str[])
     //code here
 }
 
-Contribution by :-
+Contribution by :-zaid
 
 
 // Enter your code here.
